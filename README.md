@@ -49,9 +49,10 @@ npm run test
 
 #### Bônus
 Será considerado um plus os candidatos que entregarem:
-- Uso de linter com bom padrão
+- Uso de linter com bom padrão;
 - Bom uso dos padrões de REST;
 - Uso de BDD para escrever os testes de integração;
+- Ferramentas de cobertura de testes;
 - Uso de algum API Gateway para controle de rotas, trafêgo e resiliência da aplicação;
 - O sistema ser capaz de se recuperar de falhas. (Circuit-Breaker);
 - Monitoramento da aplicação por alguma ferramenta (Ex: Grafana);
